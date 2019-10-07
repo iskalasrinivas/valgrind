@@ -31,4 +31,4 @@ sudo apt-get install kcachegrind
 ## running memory profiler
 
 valgrind --tool=callgrind ./app/shell-app this command creates a .out file in the same directory.
-run this file to see the memroy profile
+run this file to see the memory profile
